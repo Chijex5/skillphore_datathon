@@ -26,5 +26,4 @@ for snowflake
 ## Contributing
 - Emmanuel Ejigga data analyst
 - Chijioke Uzodinma data Enginner
-
-
+- Maryann Aneto
