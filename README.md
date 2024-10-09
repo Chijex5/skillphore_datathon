@@ -16,7 +16,7 @@ The Student Performance Tracking System is designed to monitor student academic 
 --link: https://app.snowflake.com/eu-central-2.aws/xx87792
 for snowflake
 
-# Links
+## Links
 -- documentation: https://docs.google.com/document/d/17ZdfOfbDy3d8Ro6WRRVZR-zPTpNIX7VbHhfJHty-HUs/edit?usp=sharing
 -- documentation: https://docs.google.com/document/d/15mIhDFxBRIIE9iKoZGciYdniS8utE5k67ehtDUWPjTs/edit?usp=sharing
 -- queries: https://app.snowflake.com/eu-central-2.aws/xx87792/w4ZLI2U9IOxR/query
