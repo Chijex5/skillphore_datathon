@@ -23,7 +23,7 @@ for snowflake
 
 
 
-#Contributing
+## Contributing
 - Emmanuel Ejigga data analyst
 - Chijioke Uzodinma data Enginner
 
