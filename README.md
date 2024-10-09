@@ -10,7 +10,9 @@ The Student Performance Tracking System is designed to monitor student academic 
 
 ## Credentials
 --username: CJ
+
 --password: Iam08023029886$
+
 --link: https://app.snowflake.com/eu-central-2.aws/xx87792
 for snowflake
 
